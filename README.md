@@ -1,0 +1,1 @@
+Generate pdf from html using jsPDF  . Open report.html for seeing demo .
